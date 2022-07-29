@@ -1,6 +1,6 @@
 lines: 100
 textSize: 25
-# Disponíveis: Alfabeto Recomendado 26 variações), Ψ (Recomendado 10 variações), Números (Recomendado 9 váriações)
+# Disponíveis: Alfabeto Recomendado 26 variações), Ψ (Recomendado 10 variações), Números (Recomendado 9 váriações) / TYPES: NICKS, BALBNICKS, FLASHNIKS, OBFUSCAÇÃO
 algoritimo: Ψ
 váriações: 10
 type: NICKS
