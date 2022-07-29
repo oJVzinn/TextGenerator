@@ -1,0 +1,7 @@
+lines: 100
+textSize: 25
+# Disponíveis: Alfabeto Recomendado 26 variações), Ψ (Recomendado 10 variações), Números (Recomendado 9 váriações)
+algoritimo: Ψ
+váriações: 10
+type: NICKS
+palavras-chave: Gay,Baitola,Swathing,CabecaDePika,Corno,Isolado,EstoqueDePorra,MamadorVoluntario,X9,NaoTranza,LambePorra,SocaFofo,PorraSeca,FreioCurto,Cabaço,Virgem,Random,Punhetasso,Bucetuda,Arrombado,LambeRola,CuArrombado,SemCu,CuDado,CuDeMel,CuPraDoacao,CuQueimado,CuLargo,Queimador,Reverse,RapidinhadeCarnaval
