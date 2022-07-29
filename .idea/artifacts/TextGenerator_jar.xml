@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TextGenerator:jar">
+    <output-path>$PROJECT_DIR$/../../..</output-path>
+    <root id="archive" name="TextGenerator.jar">
+      <element id="module-output" name="TextGenerator" />
+    </root>
+  </artifact>
+</component>
